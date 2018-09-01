@@ -14,7 +14,7 @@
 
 * name: Y.うつのみや
   * age: 28
-   * job: IT Enginner風のニート
+  * job: IT Enginner風のニート
 * hobby: Youtube and Anime Viewing
   * Youtube: MEGWIN TV
   * Anime: とあるシリーズ
