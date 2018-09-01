@@ -55,6 +55,8 @@
 * カナダ・・・＄7.6
 * オーストラリア・・・＄6.2
 
+![niantic](http://pokemongo-shinjitsu.up.n.seesaa.net/pokemongo-shinjitsu/image/niantic.jpg?d=a1)
+
 ---
 
 また、日本と同じアジア圏ではこのような数字となっています。
