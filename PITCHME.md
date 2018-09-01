@@ -20,9 +20,6 @@
   * Anime: とあるシリーズ
 * Twitter: yukkke17981
 
-* スライド表示: GitPitch
-
-
 ---
 
 ### みんな大好きソシャゲとは
