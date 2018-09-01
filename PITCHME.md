@@ -17,7 +17,8 @@
   * Anime: とあるシリーズ
 * Twitter: yukkke17981
 
-このファイルは、Git Pitchというので作成してみました.
+* スライド表示
+  * GitPitch
 
 
 ---
